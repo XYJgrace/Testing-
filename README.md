@@ -3,7 +3,7 @@ for testing purposes
 
 **Working with GitHub Desktop**
 
-To open the repository on GitHub Desktop, copy the link and paste in the Github desktop (add new repository, . 
+To open the repository on GitHub Desktop, copy the link and paste in the Github desktop (add new repository). 
   Files should shown up in Finder's documents
   
 Add files: 1) open in VS code, double click and New File. Go back to GH desktop and commit. 2) add file in Finder folder; click commit in GH Desktop 3) Create file in GitHub website, and commit changes. to pull changes to GH desktop, pull changes. 
