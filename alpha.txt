@@ -1,2 +1,5 @@
 yo hello
-Testing out editing files in VS code. open in VS code, select file and type in it. command s to save, go to the left source control (still in VS code), click commit!!!
+Testing out editing files in VS code. 
+  1) open in VS code, select file and type in it. command s to save, go to the left source control (still in VS code), click commit!!! 
+  2) The changes should show up in GH desktop, type up summary (bottom left) and commit to main in GH desktop. 
+  3) then Push!!! to GH web! Refresh web and the changes should show up. 
